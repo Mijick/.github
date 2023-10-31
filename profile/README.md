@@ -1,7 +1,3 @@
-# Who we are
-
-We are a group of relentless minds, all bound by a common purpose: to make complicated things super easy. We are a diverse collective of programmers, architects, and designers who have come together to revolutionize the way we interact with technology.
-
 # Our SwiftUI Libraries
 [PopupView] - The most powerful popup library that allows you to present any popup
 <br>

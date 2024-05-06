@@ -7,6 +7,8 @@
 <br>
 [GridView] - Lay out your data with no effort
 <br>
+[CameraView] - The most powerful CameraController. Designed for SwiftUI
+<br>
 [Timer] - Modern API for Timer
 
 
@@ -15,4 +17,5 @@
 [Navigattie]: https://github.com/Mijick/Navigattie 
 [CalendarView]: https://github.com/Mijick/CalendarView 
 [GridView]: https://github.com/Mijick/GridView
+[CameraView]: https://github.com/Mijick/CameraView
 [Timer]: https://github.com/Mijick/Timer

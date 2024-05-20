@@ -1,7 +1,7 @@
 # Our SwiftUI Libraries
 [PopupView] - The most powerful popup library that allows you to present any popup
 <br>
-[Navigattie] - Easier and cleaner way of navigating through your app
+[NavigationView] - Easier and cleaner way of navigating through your app
 <br>
 [CalendarView] - Create your own calendar object in no time
 <br>
@@ -14,7 +14,7 @@
 
 
 [PopupView]: https://github.com/Mijick/PopupView
-[Navigattie]: https://github.com/Mijick/Navigattie 
+[NavigationView]: https://github.com/Mijick/NavigationView 
 [CalendarView]: https://github.com/Mijick/CalendarView 
 [GridView]: https://github.com/Mijick/GridView
 [CameraView]: https://github.com/Mijick/CameraView

@@ -1,3 +1,8 @@
+### Join our Discord server for the latest updates:
+https://discord.gg/dT5V7nm5SC
+
+<br><br>
+
 # Our SwiftUI Libraries
 [PopupView] - The most powerful popup library that allows you to present any popup
 <br>

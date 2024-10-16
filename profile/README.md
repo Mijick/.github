@@ -4,7 +4,7 @@ https://discord.gg/dT5V7nm5SC
 <br><br>
 
 # Our SwiftUI Libraries
-[PopupView] - The most powerful popup library that allows you to present any popup
+[Popups] - The most powerful popup library that allows you to present any popup
 <br>
 [NavigationView] - Easier and cleaner way of navigating through your app
 <br>
@@ -18,7 +18,7 @@ https://discord.gg/dT5V7nm5SC
 
 
 
-[PopupView]: https://github.com/Mijick/PopupView
+[Popups]: https://github.com/Mijick/Popups
 [NavigationView]: https://github.com/Mijick/NavigationView 
 [CalendarView]: https://github.com/Mijick/CalendarView 
 [GridView]: https://github.com/Mijick/GridView

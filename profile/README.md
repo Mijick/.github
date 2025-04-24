@@ -1,8 +1,9 @@
-### Check out our newest app
+# Check out our newest app
 https://mijickpockets.framer.website
 
+<br>
 
-### Join our Discord server for the latest updates:
+# Join our Discord server for the latest updates:
 https://discord.gg/dT5V7nm5SC
 
 <br><br>

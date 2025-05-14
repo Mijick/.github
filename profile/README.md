@@ -1,5 +1,5 @@
 # Check out our newest app
-https://mijickpockets.framer.website
+https://www.mijick.com
 
 <br>
 
